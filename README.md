@@ -7,7 +7,7 @@ Customers’ leaving credit cards services would lead bank to loss, so the bank 
 You as a Data scientist at Thera bank need to come up with a classification model that will help the bank improve its services so that customers do not renounce their credit cards
 
 **Data Description**
-
+ 
 CLIENTNUM: Client number. Unique identifier for the customer holding the account
 
 Attrition_Flag: Internal event (customer activity) variable - if the account is closed then "Attrited Customer" else "Existing Customer"
